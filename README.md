@@ -4,7 +4,7 @@
 
 ## I'm a junior Full Stack developer (MERN)
 
-🔭 I’m currently working on my Strive School capstone project: KiKumo
+🧪 I’m currently working on my Strive School capstone project: KiKumo
 
 🌱 I want to imporve my SQL skills
 
