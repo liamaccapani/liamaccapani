@@ -4,9 +4,11 @@
 
 ## I'm a junior Full Stack developer (MERN)
 
-* 🔭 I’m currently working on my Strive School capstone project: KiKumo
-* 🌱 I want to imporve my SQL skills
-* 🛠 Main tools: 
+🔭 I’m currently working on my Strive School capstone project: KiKumo
+
+🌱 I want to imporve my SQL skills
+
+ 🛠 Main tools: 
 
 ![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=5c5c5c&color=E34F26&logoColor=white&label=%20)
 ![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=1572B6&logoColor=white&label=%20)
@@ -18,7 +20,8 @@
 ![express](https://img.shields.io/static/v1?message=Express&logo=express&labelColor=5c5c5c&color=259DFF&logoColor=white&label=%20)
 ![nodejs](https://img.shields.io/static/v1?message=NodeJS&logo=node.js&labelColor=5c5c5c&color=026E00&logoColor=white&label=%20)
 ![mongodb](https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20)
-* ⚡ Fun fact: I'm a HUGE vines fan! 
+
+⚡ Fun fact: I'm a HUGE vines fan! 
 
 ## How to reach me:
 
