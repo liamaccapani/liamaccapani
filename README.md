@@ -1,4 +1,4 @@
-# Hyolo everyone, I'm Lia! ![Alt Text](https://media3.giphy.com/media/72tuDWJfAKxnMzMbb5/giphy.gif?cid=ecf05e4759x28dbxaabp6s8uhvjpd4o8buvswv2bk07zdafp&rid=giphy.gif)
+# Hyolo everyone, I'm Lia! <img src="https://media3.giphy.com/media/72tuDWJfAKxnMzMbb5/giphy.gif?cid=ecf05e4759x28dbxaabp6s8uhvjpd4o8buvswv2bk07zdafp&rid=giphy.gif" width="100"/>
 
 
 
