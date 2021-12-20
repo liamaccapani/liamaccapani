@@ -1,5 +1,7 @@
-#Hyolo everyone, I'm Lia! [![amethyst](https://giphy.com/embed/rHYp2v7Wg33rDo9gc3)]
-##I'm a junior Full Stack developer (MERN)
+# Hyolo everyone, I'm Lia!
+
+
+## I'm a junior Full Stack developer (MERN)
 * 📫 How to reach me:
 
 
