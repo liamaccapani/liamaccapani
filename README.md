@@ -6,7 +6,7 @@
 
 🧪 I’m currently working on my Strive School capstone project: KiKumo
 
-🌱 I want to imporve my SQL skills
+🌱 I want to improve my SQL skills
 
  🛠 Main tools: 
 
@@ -23,7 +23,7 @@
 ![postman](https://img.shields.io/static/v1?message=Postman&logo=postman&labelColor=5c5c5c&color=FF6C37&logoColor=white&label=%20)
 
 
-✨ Fun fact: I'm a HUGE vines fan! 
+✨ Fun fact: <img src="https://seeklogo.com/images/V/vine-logo-B065CAE766-seeklogo.com.png" width="60"/>s connoisseur
 
 ## How to reach me:
 
