@@ -29,7 +29,7 @@
 
 
 [![Gmail](https://img.shields.io/badge/lia.maccapani@gmail.com-D14836??style=flat&logo=gmail&logoColor=white&link=mailto:lia.maccapani@gmail.com)](mailto:lia.maccapani@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lia-maccapani-04156a1ab/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lia-maccapani/)
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=liamaccapani&show_icons=true&theme=dark)
