@@ -23,7 +23,7 @@
 ![postman](https://img.shields.io/static/v1?message=Postman&logo=postman&labelColor=5c5c5c&color=FF6C37&logoColor=white&label=%20)
 
 
-✨ Fun fact: <img src="https://seeklogo.com/vector-logo/158101/vine" width="50"/>s connoisseur
+✨ Fun fact: <img src="https://seeklogo.com/images/V/vine-logo-94BEDD57F1-seeklogo.com.png" width="50"/>s connoisseur
 
 ## How to reach me:
 
